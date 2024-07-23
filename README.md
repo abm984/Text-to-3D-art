@@ -1,4 +1,6 @@
 # Text-to-3D-art
+# Check my paper on this 
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4uotM_wAAAAJ&citation_for_view=4uotM_wAAAAJ:u5HHmVD_uO8C
 
 The use of Stable Diffusion and Generative AI models has advanced e productivity and creativity in more than just limited to Prompting. The ideal Prompting and attention mechanism has developed a perfect scenario for challenging this Task and building the AI more at an advanced level of AI. Today I’m here to show you the building of AI 3D art and object files with few shots of prompting. The ideal Shape-E has already a repository available for it’s content for Text to 3D art using text but now we are available with the facility of Major Technology of Stable Diffusion and Generative AI
 
